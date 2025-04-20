@@ -2,6 +2,8 @@
 
 A fast, responsive, and minimal web app built with **React + Vite** that helps students view their **college timetable**, **academic calendar**, and **upcoming holidays** — all in one place!
 
+🌐 **Live Website:** [https://calces.vercel.app/](https://calces.vercel.app/)
+
 ---
 
 ## 🚀 Features
@@ -9,9 +11,10 @@ A fast, responsive, and minimal web app built with **React + Vite** that helps s
 - 📅 View daily/weekly class **timetable**
 - 🗓️ Access complete **academic calendar** (semester schedule, exams, events)
 - 🎉 See upcoming **holidays and breaks**
+- 📥 **Download timetable as PDF** for offline access
 - 🌐 Fully responsive and works great on both desktop and mobile
 - ⚡ Built with **Vite** for lightning-fast performance
-- 🎨 Clean UI with modern styling (optional: mention Tailwind or CSS framework if used)
+- 🎨 Clean UI with modern styling (optional: Tailwind CSS)
 
 ---
 
@@ -20,7 +23,7 @@ A fast, responsive, and minimal web app built with **React + Vite** that helps s
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [CSS / Tailwind CSS](https://tailwindcss.com/) *(optional if you're using it)*
+- [CSS / Tailwind CSS](https://tailwindcss.com/) *(if used)*
 
 ---
 
