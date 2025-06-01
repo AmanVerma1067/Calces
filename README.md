@@ -23,7 +23,7 @@ A fast, responsive, and minimal web app built with **React + Vite** that helps s
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [CSS / Tailwind CSS](https://tailwindcss.com/) *(if used)*
+- [CSS / Tailwind CSS](https://tailwindcss.com/)
 
 ---
 
